@@ -24,7 +24,7 @@ Para este proyecto se utilizó el siguiente entorno y librerías:
 * **El poder del Multiplataforma:** Se descubrió que la estrategia multiplataforma es un factor crucial para el volumen de ventas masivo, destacando la franquicia de **LEGO** como el caso de mayor éxito bajo este modelo.
 
 ## 👨‍💻 Sobre el Autor
-**[Tu Nombre Completo]**
+**Carlos Emiliano Espejel Barroso**
 *Analista de Datos | Ingeniería Bioquímica Industrial (TripleTen / UAM)*
 
 📫 **Contacto:** www.linkedin.com/in/emiliano-espejel-650b552b1 | emilianoespejel0@gmail.com
